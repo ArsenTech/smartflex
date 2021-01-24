@@ -2,7 +2,7 @@
   "name": "smartflex",
   "version": "1.0.1",
   "description": "CSS only Framework",
-  "main": "index.js",
+  "main": "./dist/css/smartflex.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
