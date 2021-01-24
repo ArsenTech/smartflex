@@ -1,0 +1,32 @@
+{
+  "name": "smartflex",
+  "version": "1.0.1",
+  "description": "CSS only Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smart-Flex-Framework/smartflex.git"
+  },
+  "keywords": [
+    "smartflex",
+    "css",
+    "flexbox",
+    "flex",
+    "arsentech",
+    "smart-flex"
+  ],
+  "author": "ArsenTech",
+  "licenses": [
+    {
+      "type": "GPL-2.0",
+      "url": "https://github.com/Smart-Flex-Framework/smartflex/blob/main/LICENSE"
+    }
+  ],   
+  "bugs": {
+    "url": "https://github.com/Smart-Flex-Framework/smartflex/issues"
+  },
+  "homepage": "https://arsentech.github.io"
+}
