@@ -24,6 +24,7 @@ by [ArsenTech](https://arsentech.github.io)
 ![GitHub forks](https://img.shields.io/github/forks/Smart-Flex-Framework/smartflex?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Smart-Flex-Framework/smartflex?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/Smart-Flex-Framework/smartflex?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/Smart-Flex-Framework/smartflex?style=for-the-badge)
 
 ## Setup
 You Can Setup (Download and / or Install) by using one of these methods:
