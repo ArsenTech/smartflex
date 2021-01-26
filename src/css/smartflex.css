@@ -190,7 +190,7 @@
 .sf-basis-def{
      flex-basis: 0 0 auto !important;
 }
-.sf-basis-full{
+.sf-basis-fill{
      flex-basis: 1 1 auto !important;
 }
 .sf-basis-content{
