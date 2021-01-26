@@ -40,11 +40,9 @@ https://github.com/Smart-Flex-Framework/smartflex/blob/main/dist/css/smartflex.c
 ## Includes
 ```text
 smartflex/
-│
 └── css/
     ├── smartflex.css
     ├── smartflex-min.css
-
 ```
 ## Issues
 If you want to add issues, click [here](https://github.com/Smart-Flex-Framework/smartflex/issues/new/choose) to submit your issue
