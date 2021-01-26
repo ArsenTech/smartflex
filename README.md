@@ -1,3 +1,5 @@
+<img alt="logo" src="https://avatars.githubusercontent.com/u/77837204?s=200&v=4">
+
 # Smart Flex
 ![GitHub](https://img.shields.io/github/license/Smart-Flex-Framework/smartflex?style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Smart-Flex-Framework?color=22b455&label=Smart%20FLex%20Stars&style=for-the-badge)
@@ -8,6 +10,12 @@
 CSS only Flex and Flexbox working Framework. <br>
 SmartFlex is a CSS Library using Flex and Flexbox. <br>
 by [ArsenTech](https://arsentech.github.io)
+
+## Table of Contents
+- [Status](#status)
+- [Setup](#setup)
+- [Issues](#issues)
+- [Creators](#creators)
 
 ## Status
 ![GitHub issues](https://img.shields.io/github/issues/Smart-Flex-Framework/smartflex?style=for-the-badge)
