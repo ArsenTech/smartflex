@@ -14,6 +14,7 @@ by [ArsenTech](https://arsentech.github.io)
 ## Table of Contents
 - [Status](#status)
 - [Setup](#setup)
+- [Includes](#includes)
 - [Issues](#issues)
 - [Creators](#creators)
 
@@ -36,6 +37,15 @@ https://github.com/Smart-Flex-Framework/smartflex/blob/main/dist/css/smartflex.c
 ```
 - Clone github Repo `git clone https://github.com/Smart-Flex-Framework/smartflex.git`
 
+## Includes
+```text
+smartflex/
+│
+└── css/
+    ├── smartflex.css
+    ├── smartflex-min.css
+
+```
 ## Issues
 If you want to add issues, click [here](https://github.com/Smart-Flex-Framework/smartflex/issues/new/choose) to submit your issue
 
