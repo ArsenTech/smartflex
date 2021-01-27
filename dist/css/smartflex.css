@@ -2,14 +2,8 @@
 .sf-flex{
      display: flex !important;
 }
-.sf-flexbox{
-     display: flexbox !important;
-}
 .sf-inline-flex{
      display: inline-flex !important;
-}
-.sf-inline-flexbox{
-     display: inline-flexbox !important;
 }
 /* Justify-Content */
 .jc-center{
@@ -87,7 +81,7 @@
 .ac-sb{
      align-content: space-between !important;
 }
-/* Flex Thing */
+/* Direction, Wrap */
 .dir-row{
      flex-direction: row !important;
 }
@@ -115,9 +109,6 @@
 }
 .flex-auto{
      flex: auto !important;
-}
-.flex-content{
-     flex: content !important;
 }
 .flex-none{
      flex: none !important;
@@ -192,9 +183,6 @@
 }
 .sf-basis-fill{
      flex-basis: 1 1 auto !important;
-}
-.sf-basis-content{
-     flex-basis: content !important;
 }
 .sf-basis-25{
      flex-basis: 25% !important;
