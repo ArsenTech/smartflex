@@ -51,9 +51,7 @@ List of Classes of SmartFlex:
 | Class Name  | CSS         | Meaning         | 
 | ----------- | ----------- | ----------- |
 | .sf-flex    | `display: flex`| defines a flex container. It enables flex content. |
-| .sf-flexbox | `display: flexbox`   | same as `.sf-flex` (old version)   
 | .sf-inline-flex    | `display: inline-flex`  | defines flex container inline (one line)  
-| .sf-inline-flexbox   | `display: inline-flexbox`    |   same as `.sf-inline-flex` (old version)
 | .jc-center    | `justify-content: center`|  items are centered along the line   
 | .jc-sa   | `justify-content: space-around`   |     items are evenly distributed in the line with equal space around them. Note that visually the spaces aren’t equal, since all the items have equal space on both sides
 | .jc-sb    | `justify-content: space-between`   | items are evenly distributed in the line; first item is on the start line, last item on the end line
@@ -87,7 +85,6 @@ List of Classes of SmartFlex:
 | .sf-w-rev   | `flex-wrap: wrap-reverse`    | items will wrap onto multiple lines from bottom to top.
 | .flex-def   | `flex: 0 0 auto`    | Default value
 | .flex-auto   | `flex: auto `   | same as `.sf-fill`
-| .flex-content   | `flex: content` |  sets the flexible length to content size
 | .flex-none  | `flex: none `   | same as `.flex-def`
 | .flex-25   | `flex: 25%`    | sets the flexible length to 25%
 | .flex-50  | `flex: 50%`   | sets the flexible length to 50%
@@ -112,7 +109,6 @@ List of Classes of SmartFlex:
 | .sf-order-last  | `order: 10`    | Ordered to last side (10)
 | .sf-basis-def   | `flex-basis: 0 0 auto`    | Default Value
 | .sf-basis-fill  | `flex-basis: 1 1 auto` | Automatic
-| .sf-basis-content   | `flex-basis: content`    | specifies the initial length to content size
 | .sf-basis-25   | `flex-basis: 25%`    | specifies the initial length to 25%
 | .sf-basis-50  | `flex-basis: 50%`   | specifies the initial length to 50%
 | .sf-basis-75   | `flex-basis: 75%`    | specifies the initial length to 75%
