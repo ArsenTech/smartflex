@@ -43,21 +43,30 @@ https://github.com/Smart-Flex-Framework/smartflex/blob/main/dist/css/smartflex.c
 smartflex/
 └── css/
     ├── smartflex.css
-    └──  smartflex-min.css
+    └── smartflex-min.css
 ```
 ## Documentation
 
 List of Classes of SmartFlex:
-| Class Name  | CSS         | Meaning         | 
+| Class Name  | CSS         | Definition         | 
 | ----------- | ----------- | ----------- |
 | .sf-flex    | `display: flex`| defines a flex container. It enables flex content. |
 | .sf-inline-flex    | `display: inline-flex`  | defines flex container inline (one line)  
+| .sf-jc-start | ` justify-content: start` | same as .jc-start |
+| .sf-jc-end | `justify-content: end` | same as .jc-end |
+| .sf-ai-start | `align-items: start` | same as .ai-start |
+| .sf-ai-end | `align-items: end` | same as .ai-end |
+| .sf-ac-start | `align-content: start` | same as .ac-start
+| .sf-ac-end | `align-content: end` | same as .ac-end
 | .jc-center    | `justify-content: center`|  items are centered along the line   
 | .jc-sa   | `justify-content: space-around`   |     items are evenly distributed in the line with equal space around them. Note that visually the spaces aren’t equal, since all the items have equal space on both sides
 | .jc-sb    | `justify-content: space-between`   | items are evenly distributed in the line; first item is on the start line, last item on the end line
 | .jc-se   | `justify-content: space-evenly`  |   items are distributed so that the spacing between any two items is equal. 
 | .jc-start   | `justify-content: flex-start`   | items are packed toward the start of the flex-direction
 | .jc-end   | `justify-content: flex-end`  | items are packed toward the end of the flex-direction   
+| .jc-stretch | `justify-content: stretch` | Stretch 'auto'-sized items to fit the container
+| .jc-left | `justify-content: left ` | items are packed toward left edge of the container
+| .jc-right | `justify-content: right` | items are packed toward right edge of the container
 | .ai-auto    | `align-items: auto`   | automatic.
 | .ai-stretch   | `align-items: stretch`    |  stretch to fill the container 
 | .ai-start   | `align-items: flex-start`    | items are placed at the start of the cross axis. The difference between these is subtle
@@ -76,6 +85,8 @@ List of Classes of SmartFlex:
 | .ac-center   | `align-content: center `   | items centered in the container
 | .ac-sa   | `align-content: space-around`    | items evenly distributed with equal space around each line
 | .ac-sb   | `align-content: space-between `   | items evenly distributed; the first line is at the start of the container while the last one is at the end
+| .ac-se | `align-content: space-evenly` | items are evenly distributed with equal space around them
+| .ac-baseline | `align-content: baseline` | aligns the alignment baseline of the box’s first or last baseline set with the corresponding baseline in the shared first or last baseline set of all the boxes in its baseline-sharing group.
 | .dir-row   | `flex-direction: row`    |  left to right; right to left.
 | .dir-column   | `flex-direction: column `   | top to bottom; bottom to top.
 | .dir-r-rev   | `flex-direction: row-reverse`    | right to left in; left to right.
