@@ -34,7 +34,7 @@ You Can Setup (Download and / or Install) by using one of these methods:
 - [Download Latest Release](https://github.com/Smart-Flex-Framework/smartflex/releases/)
 - Copy CDN 
 ```
-https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/smartflex-min.css
+https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/smartflex.min.css
 https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/smartflex.css
 ```
 - Clone github Repo (Git Bash) `git clone https://github.com/Smart-Flex-Framework/smartflex.git`
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/s
 smartflex/
 └── css/
     ├── smartflex.css
-    └── smartflex-min.css
+    └── smartflex.min.css
 ```
 ## Documentation
 
