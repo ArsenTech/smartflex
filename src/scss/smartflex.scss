@@ -1,0 +1,253 @@
+@charset "UTF-8";
+//   SmartFlex v1.1.1 (https://smart-flex-framework.github.io/)
+//   Copyright 2021 ArsenTech (https://arsentech.github.io/)
+//   Licensed under GNU (https://github.com/Smart-Flex-Framework/smartflex/blob/main/LICENSE)
+
+// Basic Classes (.sf)
+.sf {
+  &-flex {
+    display: flex !important;
+  }
+  &-inline-flex {
+    display: inline-flex !important;
+  }
+  &-jc-start {
+    justify-content: start !important;
+  }
+  &-jc-end {
+    justify-content: end !important;
+  }
+  &-ai-start {
+    align-items: start !important;
+  }
+  &-ai-end {
+    align-items: end !important;
+  }
+  &-ac-start {
+    align-content: start !important;
+  }
+  &-ac-end {
+    align-content: end !important;
+  }
+  &-wrap {
+    flex-wrap: wrap !important;
+  }
+  &-nowrap {
+    flex-wrap: nowrap !important;
+  }
+  &-w-rev {
+    flex-wrap: wrap-reverse !important;
+  }
+  &-fill {
+    flex: 1 1 auto !important;
+  }
+  &-grow-0 {
+    flex-grow: 0 !important;
+  }
+  &-grow-1 {
+    flex-grow: 1 !important;
+  }
+  &-shrink-0 {
+    flex-shrink: 0 !important;
+  }
+  &-shrink-1 {
+    flex-shrink: 1 !important;
+  }
+  &-order-1st {
+    order: -1 !important;
+  }
+  &-order-0 {
+    order: 0 !important;
+  }
+  &-order-1 {
+    order: 1 !important;
+  }
+  &-order-2 {
+    order: 2 !important;
+  }
+  &-order-3 {
+    order: 3 !important;
+  }
+  &-order-4 {
+    order: 4 !important;
+  }
+  &-order-5 {
+    order: 5 !important;
+  }
+  &-order-6 {
+    order: 6 !important;
+  }
+  &-order-7 {
+    order: 7 !important;
+  }
+  &-order-8 {
+    order: 8 !important;
+  }
+  &-order-9 {
+    order: 9 !important;
+  }
+  &-order-last {
+    order: 10 !important;
+  }
+  &-basis-def {
+    flex-basis: 0 0 auto !important;
+  }
+  &-basis-fill {
+    flex-basis: 1 1 auto !important;
+  }
+  &-basis-25 {
+    flex-basis: 25% !important;
+  }
+  &-basis-50 {
+    flex-basis: 50% !important;
+  }
+  &-basis-75 {
+    flex-basis: 75% !important;
+  }
+  &-basis-100 {
+    flex-basis: 100% !important;
+  }
+}
+
+// Justify Content
+.jc {
+  &-center {
+    justify-content: center !important;
+  }
+  &-sb {
+    justify-content: space-between !important;
+  }
+  &-sa {
+    justify-content: space-around !important;
+  }
+  &-se {
+    justify-content: space-evenly !important;
+  }
+  &-start {
+    justify-content: flex-start !important;
+  }
+  &-end {
+    justify-content: flex-end !important;
+  }
+  &-stretch {
+    justify-content: stretch !important;
+  }
+  &-left {
+    justify-content: left !important;
+  }
+  &-right {
+    justify-content: right !important;
+  }
+}
+
+// Align Items
+.ai {
+  &-auto {
+    align-items: auto !important;
+  }
+  &-stretch {
+    align-items: stretch !important;
+  }
+  &-start {
+    align-items: flex-start !important;
+  }
+  &-end {
+    align-items: flex-end !important;
+  }
+  &-center {
+    align-items: center !important;
+  }
+  &-baseline {
+    align-items: baseline !important;
+  }
+}
+
+// Align Self
+.as {
+  &-auto {
+    align-items: auto !important;
+  }
+  &-stretch {
+    align-items: stretch !important;
+  }
+  &-start {
+    align-items: flex-start !important;
+  }
+  &-end {
+    align-items: flex-end !important;
+  }
+  &-center {
+    align-items: center !important;
+  }
+  &-baseline {
+    align-items: baseline !important;
+  }
+}
+
+// Align Content
+.ac {
+  &-stretch {
+    align-content: stretch !important;
+  }
+  &-start {
+    align-content: flex-start !important;
+  }
+  &-end {
+    align-content: flex-end !important;
+  }
+  &-center {
+    align-content: center !important;
+  }
+  &-sa {
+    align-content: space-around !important;
+  }
+  &-sb {
+    align-content: space-between !important;
+  }
+  &-se {
+    align-content: space-evenly !important;
+  }
+  &-baseline {
+    align-content: baseline !important;
+  }
+}
+
+// Direction 
+.dir{
+  &-row{
+    flex-direction: row !important;
+  }
+  &-column{
+    flex-direction: column !important;
+  }
+  &-r-rev{
+    flex-direction: row-reverse !important;
+  }
+  &-c-rev{
+    flex-direction: column-reverse !important;
+  }
+}
+
+.flex{
+  &-def{
+    flex: 0 0 auto !important;
+  }
+  &-auto{
+    flex: auto !important;
+  }
+  &-none{
+    flex: none !important;
+  }
+  &-25{
+    flex: 25% !important;
+  }
+  &-50{
+    flex: 50% !important;
+  }
+  &-75{
+    flex: 75% !important;
+  }
+  &-100{
+    flex: 100% !important;
+  }
+}
