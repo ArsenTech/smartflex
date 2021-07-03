@@ -34,22 +34,30 @@ You Can Setup (Download and / or Install) by using one of these methods:
 - [Download Latest Release](https://github.com/Smart-Flex-Framework/smartflex/releases/)
 - Copy CDN 
 ```
+CSS:
 https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/smartflex.min.css
 https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/css/smartflex.css
+
+SCSS:
+https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/scss/smartflex.min.scss
+https://raw.githubusercontent.com/Smart-Flex-Framework/smartflex/main/dist/scss/smartflex.scss
 ```
 - Clone github Repo (Git Bash) `git clone https://github.com/Smart-Flex-Framework/smartflex.git`
 
 ## Includes
 ```text
 smartflex/
-└── css/
-    ├── smartflex.css
-    └── smartflex.min.css
+├── css/
+│   ├── smartflex.css
+│   └── smartflex.min.css
+└── scss/
+    ├── smartflex.scss
+    └── smartflex.min.scss
 ```
 ## Documentation
 
 List of Classes of SmartFlex:
-| Class Name  | CSS         | Definition         | 
+| Class Name  | CSS (SCSS)         | Definition         | 
 | ----------- | ----------- | ----------- |
 | .sf-flex    | `display: flex`| defines a flex container. It enables flex content. |
 | .sf-inline-flex    | `display: inline-flex`  | defines flex container inline (one line)  
