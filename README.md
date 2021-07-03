@@ -14,11 +14,13 @@ by [ArsenTech](https://arsentech.github.io)
 
 ## Table of Contents
 - [Status](#status)
-- [Setup](#setup)
+- [Get Started](#get-started)
 - [Includes](#includes)
 - [Documentation](#documentation)
-- [Issues](#issues)
+- [Issues and Pull Request](#issues-and-pull-requests)
+- [Contributing](#contributing)
 - [Creators](#creators)
+- [Copyright and License](#copyright-and-license)
 
 ## Status
 ![GitHub issues](https://img.shields.io/github/issues/Smart-Flex-Framework/smartflex?style=for-the-badge)
@@ -29,8 +31,8 @@ by [ArsenTech](https://arsentech.github.io)
 ![GitHub watchers](https://img.shields.io/github/watchers/Smart-Flex-Framework/smartflex?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Smart-Flex-Framework/smartflex?style=for-the-badge)
 
-## Setup
-You Can Setup (Download and / or Install) by using one of these methods:
+## Get Started
+You Can Download and (or) Install by using one of these methods:
 - [Download Latest Release](https://github.com/Smart-Flex-Framework/smartflex/releases/)
 - Copy CDN 
 ```
@@ -138,9 +140,19 @@ List of Classes of SmartFlex:
 If you want to add issues, click [here](https://github.com/Smart-Flex-Framework/smartflex/issues/new/choose) to submit your issue <br/>
 If you want to add Pull Requests, click [here](https://github.com/Smart-Flex-Framework/smartflex/compare) to create pr
 
+## Contributing
+Read our [contributing guidelines](https://github.com/Smart-Flex-Framework/smartflex/blob/main/CONTRIBUTING.md). <br>
+Including:
+- directions for opening issues
+- coding standards
+- notes on development.
+
 ## Creators
 **ArsenTech**
 - https://github.com/ArsenTech
+
+## Copyright and License
+Code and documentation copyright 2021 [ArsenTech](arsentech.github.io). Code is Released under [GNU General Public License](https://github.com/Smart-Flex-Framework/smartflex/blob/main/LICENSE).
 
 > GitHub [Smart-Flex-Framework](https://github.com/Smart-Flex-Framework) &nbsp;&middot;&nbsp;
 > [SmartFlex's Website](https://smart-flex-framework.github.io) &nbsp;&middot;&nbsp;
