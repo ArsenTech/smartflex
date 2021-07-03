@@ -134,8 +134,9 @@ List of Classes of SmartFlex:
 | .sf-basis-75   | `flex-basis: 75%`    | specifies the initial length to 75%
 | .sf-basis-100  | `flex-basis: 100% `   | specifies the initial length to 100%
 
-## Issues
+## Issues and Pull Requests
 If you want to add issues, click [here](https://github.com/Smart-Flex-Framework/smartflex/issues/new/choose) to submit your issue
+If you want to add Pull Requests, click [here](https://github.com/Smart-Flex-Framework/smartflex/compare) to create pr
 
 ## Creators
 **ArsenTech**
